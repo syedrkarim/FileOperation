@@ -1,0 +1,9 @@
+Apple-
+A Fruit
+A Tech Firm
+
+Table-
+An Object, contains row and columns when used in context in computer.
+
+Computer-
+An electronic device for storing and processing data.
